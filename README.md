@@ -1,5 +1,1 @@
-# tdscheper.github.io
-
-Tommy Scheper
-
-Home
+# Tommy Scheper
