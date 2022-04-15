@@ -1,3 +1,1 @@
-# Tommy Scheper
-
-## Home
+# tdscheper.github.io
